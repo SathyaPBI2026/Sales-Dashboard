@@ -27,5 +27,8 @@ A Sales Dashboard is a visual report that shows key sales data like total sales,
 •	Built visuals like charts, cards, tables, KPIs.
 •	Add filters, interactions, design dashboard, analyze insights and publish it.
 
+## Dashboard
+https://github.com/SathyaPBI2026/Sales-Dashboard/blob/main/Sales%20Dashboard.PNG
+
 
 

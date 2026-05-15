@@ -47,6 +47,15 @@ A Sales Dashboard is a visual report that shows key sales data like total sales,
 ## Dashboard
 <img width="905" height="506" alt="sales dash screen" src="https://github.com/user-attachments/assets/33253f39-d031-47de-9496-504056d12045" />
 
+## Project Insight
+•	Maximum number of sales done in year-2018.
+•	Wholesale products are sold more compared to distributor and exports.
+•	Monitored key KPIs such as Total Sales, Profit, product Sold, and Profit Margin.
+•	Used interactive filters and slicers to enable dynamic data analysis.
+
+## Conclusion
+Using visual reports and filters, decision-makers can quickly identify business opportunities, improve sales strategies, and make data-driven decisions.
+
 
 
 
